@@ -1,0 +1,4 @@
+python-dotenv
+qiskit
+qiskit-ibm-runtime
+qiskit_serverless
